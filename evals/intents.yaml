@@ -1,0 +1,15 @@
+# Fixed test intents. All invented and generic; no real product or customer data.
+# The last one is vague on purpose: the right behaviour is to ask, not to guess.
+- slug: reschedule-booking
+  intent: Let customers reschedule a booked appointment up to 24 hours before it starts
+- slug: export-invoices
+  intent: Export monthly invoices as CSV
+- slug: password-reset
+  intent: Let users reset a forgotten password by email
+- slug: low-stock-alert
+  intent: Email the shop owner when an item's stock falls below a threshold they set
+- slug: team-invite
+  intent: Let a workspace admin invite teammates by email and give each a role
+- slug: vague-dashboard
+  intent: Make the dashboard better
+  vague: true

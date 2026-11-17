@@ -1,0 +1,13 @@
+run_at,mode,model,slug,seconds,cost_usd,turns,status,units,stories,criteria,edge_cases,score,approved,error
+2026-11-17T20:16:05+00:00,skill,sonnet,reschedule-booking,63,0.2448,10,draft,3,6,21,14,1.0,False,
+2026-11-17T20:16:05+00:00,skill,sonnet,export-invoices,70,0.2576,2,draft,3,6,22,14,1.0,False,
+2026-11-17T20:16:05+00:00,skill,sonnet,password-reset,53,0.2172,6,draft,2,4,24,19,1.0,False,
+2026-11-17T20:16:57+00:00,skill,sonnet,low-stock-alert,65,0.2382,7,draft,3,4,23,16,1.0,False,
+2026-11-17T20:17:08+00:00,skill,sonnet,team-invite,62,0.2305,8,draft,3,4,26,21,1.0,False,
+2026-11-17T20:17:14+00:00,skill,sonnet,vague-dashboard,18,0.1212,7,blocked,0,0,0,0,,False,
+2026-11-17T20:17:33+00:00,baseline,sonnet,reschedule-booking,19,0.2094,2,draft,3,6,18,11,1.0,False,
+2026-11-17T20:17:52+00:00,baseline,sonnet,export-invoices,23,0.0836,2,draft,3,5,19,10,1.0,False,
+2026-11-17T20:18:02+00:00,baseline,sonnet,password-reset,17,0.073,2,draft,3,5,13,8,1.0,False,
+2026-11-17T20:18:09+00:00,baseline,sonnet,low-stock-alert,21,0.0805,2,draft,3,5,18,9,1.0,False,
+2026-11-17T20:18:15+00:00,baseline,sonnet,team-invite,19,0.0822,2,draft,3,5,21,14,1.0,False,
+2026-11-17T20:18:20+00:00,baseline,sonnet,vague-dashboard,17,0.0721,2,draft,3,6,12,6,1.0,False,
